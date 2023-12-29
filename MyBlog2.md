@@ -1,5 +1,4 @@
 **Unleashing the Power of Automation in Remote Patient Monitoring**
-
 ---
 
 **Introduction**
