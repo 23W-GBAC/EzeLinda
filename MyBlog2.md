@@ -1,4 +1,7 @@
 **Unleashing the Power of Automation in Remote Patient Monitoring**
+
+![hospital-4904921_1280](https://github.com/23W-GBAC/EzeLinda/assets/112171077/fa538b49-80ed-4f1f-aecb-fd5b6fbaf43b)
+
 ---
 
 **Introduction**
