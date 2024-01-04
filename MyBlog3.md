@@ -75,6 +75,7 @@ Join us on this tech-savvy journey behind the scenes of telehealth automation. U
 As technology continues to advance, the role of prompts in healthcare will only grow, ultimately benefiting both healthcare professionals and patients.
 
 **References**
+
 Chen, M., Hao, Y., Hwang, K., Wang, L., & Wang, L. (2018). A vision of IoT: Applications, challenges, and opportunities with China perspective. IEEE Internet of Things Journal, 4(4), 997-1006.
 
 Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine learning in medicine. New England Journal of Medicine, 380(14), 1347-1358.
