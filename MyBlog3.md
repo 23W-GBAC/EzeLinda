@@ -1,5 +1,8 @@
 **Behind the Scenes: Tech Integration in Telehealth Automation**
 
+![artificial-intelligence-3382507_1280](https://github.com/23W-GBAC/EzeLinda/assets/112171077/58dc89c0-bd5a-4fa5-ac1c-a295f6d1c63c)
+
+
 Join us behind the curtain as we uncover the technology driving telehealth automation. In this episode, we delve into the intricate integration of IoT devices, data analytics, and artificial intelligence. Discover how these technologies work harmoniously to monitor patients remotely, ensuring a seamless and efficient healthcare experience.
 
 Telehealth automation is not just changing the way healthcare is delivered; it's revolutionizing it. Gone are the days when healthcare meant primarily in-person visits to a doctor's office or hospital. Today, healthcare is extending its reach beyond physical boundaries, thanks to advancements in technology.
